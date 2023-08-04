@@ -1,1 +1,21 @@
+This file describes the data used in the research project.
 
+SST Files
+
+
+
+Biological Data
+IMOS_-_Combined_Biogeochemical_parameters_(reference_stations)-NRS_combined_biogeochemical_parameters.csv
+CphlA_mgm3 - This is the subsurface used in "Chemical.qmd"
+
+
+
+
+
+Chemical Data
+IMOS_-_Combined_Biogeochemical_parameters_(reference_stations)-NRS_combined_biogeochemical_parameters.csv
+Oxygen_umolL - This is the dissolved oxygen used in "RefinedPlots.qmd"
+Nitrate_umolL - This is the nitrate used in "RefinedPlots.qmd"
+Nitrite_umolL - This is the nitrite used in "RefinedPlots.qmd"
+Phosphate_umolL - This is the phosphate used in "RefinedPlots.qmd"
+Silicate_umolL - This is the silicate used in "RefinedPlots.qmd"
