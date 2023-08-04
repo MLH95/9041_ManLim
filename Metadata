@@ -2,20 +2,40 @@ This file describes the data used in the research project.
 
 SST Files
 
+var/sea_surface_temperature - This is the sea surface temperature data used in "30YrExplore.qmd"
+
+dim/lat - This is the latitude data used in "30YrExplore.qmd"
+
+dim/lon - This is the longitude data used in "30YrExplore.qmd"
+
+dim/time - This is the time data useed in "30YrExplore.qmd"
+
+
 
 
 Biological Data
+
 IMOS_-_Combined_Biogeochemical_parameters_(reference_stations)-NRS_combined_biogeochemical_parameters.csv
+
 CphlA_mgm3 - This is the subsurface used in "Chemical.qmd"
 
+NSWCOAST_CHLA.nc
+TASMANIA_CHLA.nc
 
+var/chl_oc3 - This is the data used for surface chla concentration used in "Chla_analysis_new.qmd"
 
 
 
 Chemical Data
+
 IMOS_-_Combined_Biogeochemical_parameters_(reference_stations)-NRS_combined_biogeochemical_parameters.csv
+
 Oxygen_umolL - This is the dissolved oxygen used in "RefinedPlots.qmd"
+
 Nitrate_umolL - This is the nitrate used in "RefinedPlots.qmd"
+
 Nitrite_umolL - This is the nitrite used in "RefinedPlots.qmd"
+
 Phosphate_umolL - This is the phosphate used in "RefinedPlots.qmd"
+
 Silicate_umolL - This is the silicate used in "RefinedPlots.qmd"
